@@ -1,0 +1,37 @@
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\obj\Debug\net8.0\Renomear arquivos de não pendência.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\obj\Debug\net8.0\Renomear arquivos de não pendência.AssemblyInfoInputs.cache
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\obj\Debug\net8.0\Renomear arquivos de não pendência.AssemblyInfo.cs
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\obj\Debug\net8.0\Renomear arquivos de não pendência.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\Renomear arquivos de não pendência.exe
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\Renomear arquivos de não pendência.deps.json
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\Renomear arquivos de não pendência.runtimeconfig.json
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\Renomear arquivos de não pendência.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\Renomear arquivos de não pendência.pdb
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\itext.forms.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\itext.io.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\itext.layout.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\itext.sign.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\itext.svg.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\itext.commons.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\obj\Debug\net8.0\Renomear arquivos de não pendência.csproj.AssemblyReference.cache
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\obj\Debug\net8.0\Renomear.F3CFB845.Up2Date
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\obj\Debug\net8.0\Renomear arquivos de não pendência.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\obj\Debug\net8.0\refint\Renomear arquivos de não pendência.dll
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\obj\Debug\net8.0\Renomear arquivos de não pendência.pdb
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\obj\Debug\net8.0\Renomear arquivos de não pendência.genruntimeconfig.cache
+C:\Users\gustavo.fernandes\Desktop\Renomear arquivos de não pendência\obj\Debug\net8.0\ref\Renomear arquivos de não pendência.dll
